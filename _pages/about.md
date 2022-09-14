@@ -4,8 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+## about me에 대한 관련된 내용 작성
+
+## 프로젝트(수업들으면서 했던 프로젝트를 쓰든지,,)
+# 시계열분석을 활용한 삼ㅈ성전자 주식예측(2022-05)
+# 이런식으로...
 
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+## 프로그래밍 스킬 ( R 파이썬 .. )
