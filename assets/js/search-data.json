@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "about me에 대한 관련된 내용 작성 . 프로젝트(수업들으면서 했던 프로젝트를 쓰든지,,) . 신기하다 ㅇ와 . 시계열분석을 활용한 삼ㅈ성전자 주식예측(2022-05) . 이런식으로… . 프로그래밍 스킬 ( R 파이썬 .. ) .",
+          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://boram-coco.github.io/coco1/about/",
           "relUrl": "/about/",
           "date": ""
